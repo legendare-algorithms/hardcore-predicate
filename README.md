@@ -1,7 +1,5 @@
 <pre>
 $ neofetch
-
-{textdecoration: blue}
  
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>✶         `.     `.  ,       ✦ </a>                                             
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              .--'  .._,'"-' `. </a>           
