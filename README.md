@@ -46,8 +46,8 @@ $ neofetch
                         <strong>Programming Languages</strong>
                 </h3>
                 <br />
-                <img alt="img"
-                        src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<!--                 <img alt="img"
+                        src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> -->
                 <img alt="img"
                         src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <!--                 <img alt="img"
@@ -55,7 +55,11 @@ $ neofetch
                 <img alt="img"
                         src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
                 <img alt="img"
-                        src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+                        src="https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+                <img alt="img"
+                        src="https://img.shields.io/badge/swift-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<!--                 <img alt="img"
+                        src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /> -->
 <!--                 <img alt="img"
                         src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" /> -->
         </summary>
