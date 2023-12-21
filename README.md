@@ -1,4 +1,5 @@
-$${\color{red}Merry \space Christmas!!!}$$	
+$${\color{red}Merry \space Christmas!}$$	
+${{\color{Goldenrod}\Huge{\textsf{  Happy New Year!\ there\ \}}}}\$
 
 
 
