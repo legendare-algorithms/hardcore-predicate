@@ -1,3 +1,4 @@
+<code style="color : red"> Merry Christmas!!! </code>
 <pre>
 $ neofetch
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>✶         `.     `.  ,       ✦ </a>                                             
@@ -34,4 +35,4 @@ $ neofetch
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>         .     /        .               .       \    .''</a>
 </pre>
 
-<code style="color : red">text</code>
+
