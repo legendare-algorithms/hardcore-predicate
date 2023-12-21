@@ -75,32 +75,32 @@ $ neofetch
                                 </summary>
                                 <ul>
                                         <li>
-                                                <img alt="img" align="center"
+<!--                                                 <img alt="img" align="center"
                                                         src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
                                                 <img alt="img" align="center"
                                                         src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
                                                 (~3.5yrs) - Swing and Android
-                                                Apps
+                                                Apps -->
                                         </li>
                                         <li>
-                                                <img alt="img" align="center"
+<!--                                                 <img alt="img" align="center"
                                                         src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-                                                (>1.5yrs) - Flutter
+                                                (>1.5yrs) - Flutter -->
                                         </li>
                                         <li>
-                                                <img alt="img" align="center"
+<!--                                                 <img alt="img" align="center"
                                                         src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-                                                (>4yrs) - Skia and GLFW
+                                                (>4yrs) - Skia and GLFW -->
                                         </li>
                                         <li>
-                                                <img alt="img" align="center"
+<!--                                                 <img alt="img" align="center"
                                                         src="https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=FFF&labelColor=EA8220" />
-                                                (~2yrs) - OpenFL and Kha
+                                                (~2yrs) - OpenFL and Kha -->
                                         </li>
                                         <li>
-                                                <img alt="img" align="center"
+<!--                                                 <img alt="img" align="center"
                                                         src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-                                                (~0.1yrs) - MonoGame + DotNet
+                                                (~0.1yrs) - MonoGame + DotNet -->
                                         </li>
                                 </ul>
                         </details>
