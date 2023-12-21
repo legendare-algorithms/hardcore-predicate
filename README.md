@@ -1,4 +1,5 @@
-$${\color{red}Merry \space Christmas \space!!!}$$
+$${\color{red}Merry \space Christmas!!!}$$	
+
 
 
 
