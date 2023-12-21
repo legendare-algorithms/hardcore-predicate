@@ -1,4 +1,11 @@
-<code style="color : red"> Merry Christmas!!! </code>
+$${\color{red}Red}$$
+
+
+
+
+
+
+
 <pre>
 $ neofetch
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>✶         `.     `.  ,       ✦ </a>                                             
