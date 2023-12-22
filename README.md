@@ -1,6 +1,3 @@
-${{\color{Red}\Huge{\textsf{  Mery Christmas! }}}}\$
-${{\color{Goldenrod}\Huge{\textsf{  Happy New Year! }}}}\$
-
 <pre>
 $ neofetch
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>✶         `.     `.  ,       ✦ </a>                                             
