@@ -1,8 +1,8 @@
 <pre>
 $ neofetch
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>✶         `.     `.  ,       ✦ </a>                                             
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              .--'  .._,'"-' `. </a>           
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            .    .'         `' </a>            
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              .--'  .._,'"-' `. </a>           hi, I'm alex and I code. I also pet cats, lift, and write research papers for fun
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            .    .'         `' </a>                                      
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            `.   /    ✶      ,'  </a>          
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              `  '--.   ,-"'"      </a>        
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              `'`   |  "             </a>      
