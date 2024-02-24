@@ -26,7 +26,7 @@ Data Engineer based in NorCal.
 <pre>
 $ neofetch
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>✶         `.     `.  ,       ✦ </a>                                             
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              .--'  .._,'"-' `. </a>           hi, I'm Alex and I code. I also pet cats, lift, and write research papers 
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              .--'  .._,'"-' `. </a>           hi what's up human ! I'm Alex and I code. I also pet cats, lift, and write research papers 
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            .    .'         `' </a>                              
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            `.   /    ✶      ,'  </a>                
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              `  '--.   ,-"'"      </a>        
