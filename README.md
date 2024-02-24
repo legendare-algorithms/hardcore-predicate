@@ -1,12 +1,12 @@
 <pre>
 $ neofetch
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>✶         `.     `.  ,       ✦ </a>                                             
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              .--'  .._,'"-' `. </a>           hi, I'm alex and I code. I also pet cats, lift, 
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            .    .'         `' </a>              and write research papers                  
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              .--'  .._,'"-' `. </a>           hi, I'm Alex and I code. I also pet cats, lift, and write research papers 
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            .    .'         `' </a>                              
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            `.   /    ✶      ,'  </a>                
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              `  '--.   ,-"'"      </a>        
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              `'`   |  "             </a>      I know C++, Java, APEX, Python, and Javascript in a object-oriented capacity
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>✦.               -. \  |              </a>         I also can implement datastructures using all 5 languages.
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>✦.               -. \  |              </a>         I also can implement data structures using all 5 languages.
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>                   `--\.'      ___.   </a>
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>                        \      ._, \.   </a>       
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              _.,        `.   <  <\               . </a>    I've so far worked at three major tech companies and the US government.
