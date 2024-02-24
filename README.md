@@ -39,7 +39,7 @@ $ neofetch
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>        ../, `.            `  |    .\ *`.         \ \_</a>    
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>       ,' ,..  .           _.,'    ||\|            )  '".</a>  
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>       , ,'   \           ,'.-.`-._,'  |           .  _._`.</a>   Currently, I try to run two miles a week and write at least one
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>     ,' /      \ \        `' ' `--/   | \          / /   ..\ </a>    book report on a book I try to finish and critically analyze.
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>     ,' /      \ \        `' ' `--/   | \          / /   ..\ </a>    book report on a book that I try to read and critically appreciate.
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>   .'  /        \ .         |\__ - _ ,'` `        / /     `.`.</a>     
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>  |  '          ..         `-...-"  |  `-'      / /        . `. </a>  I'm also trying to get better at chess and my rating is 
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>   | /            \\            |    |          / /          `. `.</a>   currently around 1800. I'm learning about middle-game
