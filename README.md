@@ -1,5 +1,5 @@
 
-![USA](https://img.shields.io/badge/made%20in-%F0%9F%87%BA%F0%9F%87%B8%20usa-blue.svg)
+![USA](https://img.shields.io/badge/proudly%20made%20in-%F0%9F%87%BA%F0%9F%87%B8%20usa-blue.svg)
 
 Data Engineer based in NorCal.
 
