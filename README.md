@@ -1,6 +1,9 @@
 
 ![USA](https://img.shields.io/badge/made%20in-%F0%9F%87%BA%F0%9F%87%B8%20usa-blue.svg)
-Data Engineer based in NorCal [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/energetic-cynosure/)
+
+Data Engineer based in NorCal.
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/energetic-cynosure/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpPZL8Qlc4fp6M085r7JbZA)
 
 ## ⚡ Technologies
