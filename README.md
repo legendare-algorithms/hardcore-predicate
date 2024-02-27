@@ -1,7 +1,7 @@
 
 ![USA](https://img.shields.io/badge/made%20in-%F0%9F%87%BA%F0%9F%87%B8%20USA-blue.svg)
 
-Data Engineer based in NorCal.
+Currently a Data Engineer based in NorCal
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/energetic-cynosure/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpPZL8Qlc4fp6M085r7JbZA)
@@ -22,7 +22,7 @@ Data Engineer based in NorCal.
 <pre>
 $ neofetch
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>✶         `.     `.  ,       ✦ </a>                                             
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              .--'  .._,'"-' `. </a>           hi what's up human ! I'm Alex and I code. I also pet cats, lift, and write research papers 
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              .--'  .._,'"-' `. </a>           hi what's up choom! I'm Alex and I code. I also pet cats, lift, and write research papers 
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            .    .'         `' </a>                              
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            `.   /    ✶      ,'  </a>                
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              `  '--.   ,-"'"      </a>        
