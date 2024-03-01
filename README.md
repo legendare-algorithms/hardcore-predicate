@@ -6,8 +6,8 @@
 
 <pre>
 $ neofetch
-                                               EPIC POKEMON BATTLE SIMULATOR     
- ------------------------------- ------------------------------- ------------------------------- ------------------------------ 
+ EPIC POKEMON BATTLE SIMULATOR     
+ ------------ ---------------- ----------------- ----------- -------------- -------------- ---------------- ----------- 
  > Charizard! I choose you!
  
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>✶         `.     `.  ,       ✦ </a>                                             
