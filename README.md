@@ -12,7 +12,7 @@ $ neofetch
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            .    .'         `' </a>                              
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            `.   /    ✶      ,'  </a>                
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              `  '--.   ,-"'"      </a>        
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              `'`   |  "             </a>        RAWR!!!!
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              `'`   |  "             </a>        RAWR!!!! :]
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>✦.               -. \  |              </a>        
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>                   `--\.'      ___.   </a>
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>                        \      ._, \.   </a>       
