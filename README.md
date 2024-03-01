@@ -51,7 +51,7 @@ g++ -o start my_epic_pokemonGame.cpp
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Legendary-Cynosure&show_icons=true)
 <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
 
-## ⚡ Technologies
+## ⚡ Languages & Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
