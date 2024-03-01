@@ -7,7 +7,7 @@
 <pre>
 $ neofetch
 ██████████ 100%     Load complete. 
-init epic_pokemon_sim.cpp
+init my_epic_pokemonGame.cpp
 ------------ ---------------- ----------------- ----------- -------------- -------------- ---------------- ----------- 
  > Charizard! I choose you!
  
