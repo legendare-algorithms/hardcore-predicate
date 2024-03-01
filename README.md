@@ -43,10 +43,8 @@ g++ -o start my_epic_pokemonGame.cpp
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>|          ,' .-   ,' ||               | .-.        `.      .'     ||</a>      
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>`'        ,'    `".'    |               |    `.        '. -.'       `'</a>   
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>         /      ,'      |               |,'    \-.._,.'/'</a>
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>         .     /        .               .       \    .''</a>
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>         .     /        .               .       \    .''</a> 
 </pre>
-
-`My first coding language was C++ and this is a reminder to myself that you can do really cool things with code!`
 
 ## :chart_with_upwards_trend:     Stats
 
