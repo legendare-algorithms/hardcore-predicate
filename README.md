@@ -1,6 +1,6 @@
-Hi! I'm Alex and I like to make things. This is a place for learning and having fun!
+**`Hi! I'm Alex and I like to make things. This is a place for learning and having fun!`**
 
-If you want to get in touch, I have two ways that you can do that:
+**`If you want to get in touch, I have two ways that you can do that:`**
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/energetic-cynosure/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpPZL8Qlc4fp6M085r7JbZA)
 
