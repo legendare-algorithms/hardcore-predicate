@@ -62,6 +62,6 @@ $ neofetch
 
 ![USA](https://img.shields.io/badge/made%20in-%F0%9F%87%BA%F0%9F%87%B8%20USA-blue.svg)
 
-
+**`Thank you, come again!`**
 
 
