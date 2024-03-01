@@ -6,8 +6,9 @@
 
 <pre>
 $ neofetch
- EPIC POKEMON BATTLE SIMULATOR     
- ------------ ---------------- ----------------- ----------- -------------- -------------- ---------------- ----------- 
+██████████ 100%     Load complete. 
+init epic_pokemon_sim.cpp
+------------ ---------------- ----------------- ----------- -------------- -------------- ---------------- ----------- 
  > Charizard! I choose you!
  
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>✶         `.     `.  ,       ✦ </a>                                             
