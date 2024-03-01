@@ -6,13 +6,13 @@ If you want to get in touch, I have two ways that you can do that:
 
 <pre>
 $ neofetch
- Charizard! I choose you!!
+ Charizard! I choose you!
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>✶         `.     `.  ,       ✦ </a>                                             
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              .--'  .._,'"-' `. </a>          
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            .    .'         `' </a>                              
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            `.   /    ✶      ,'  </a>                
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              `  '--.   ,-"'"      </a>        
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              `'`   |  "             </a>      
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              `'`   |  "             </a>        RAWR!!!!
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>✦.               -. \  |              </a>        
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>                   `--\.'      ___.   </a>
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>                        \      ._, \.   </a>       
