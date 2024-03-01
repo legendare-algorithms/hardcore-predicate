@@ -46,6 +46,8 @@ g++ -o start my_epic_pokemonGame.cpp
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>         .     /        .               .       \    .''</a>
 </pre>
 
+`My first coding language was C++ and this is a reminder to myself to perservear when it gets tuff becaise it'll all be worth it in the end!`
+
 ## :chart_with_upwards_trend:     Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Legendary-Cynosure&show_icons=true)
