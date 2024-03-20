@@ -77,7 +77,7 @@ g++ -o start my_epic_pokemonGame.cpp
 <p align="center">
 </p>
 
-## Visiror Count
+## Visitor Count
 <p align="center"><img src="https://profile-counter.glitch.me/{Legendary-Cynosure}/count.svg"></p>
 
 
