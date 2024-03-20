@@ -71,7 +71,7 @@ g++ -o start my_epic_pokemonGame.cpp
 
 <p align="center">
   <a> 
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary-Cynosure&theme=holi&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary-Cynosure&theme=default&bghide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
 <p align="center">
