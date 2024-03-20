@@ -6,7 +6,7 @@
 
 ## :chart_with_upwards_trend:     Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Legendary-Cynosure&show_icons=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true)
 <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
 
 ## ⚡ Languages & Tools
