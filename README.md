@@ -71,6 +71,9 @@ g++ -o start my_epic_pokemonGame.cpp
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>         .     /        .               .       \    .''</a> 
 </pre>
 
+![Contribution Snake Light](https://raw.githubusercontent.com/Legendary-Cynosure/Legendary-Cynosure/output/github-snake-light.svg#gh-light-mode-only)
+![Contribution Snake Dark](https://raw.githubusercontent.com/Legendary-Cynosure/Legendary-Cynosure/output/github-snake-dark.svg#gh-dark-mode-only)
+
 ## Visitor Count
 <p align="center"><img src="https://profile-counter.glitch.me/{Legendary-Cynosure}/count.svg"></p>
 
