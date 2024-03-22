@@ -16,6 +16,7 @@
   <a href="https://github.com/Kaweees" alt="Kaweees's GitHub Stats" style="margin: 5px;">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary-Cynosure&layout=compact&langs_count=15&border_color=fff&border_radius=5&bg_color=222222&title_color=ebedf0&text_color=00F3FF&hide=nesC,Tcl" />
   </a>
+<a>  <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/ucalifornia.png" alt="fiat lux!"></a>
 </div>
 
 ## ⚡ Languages & Tools
@@ -26,8 +27,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=Arduino)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/ucalifornia.png" alt="fiat lux!"></a>
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
