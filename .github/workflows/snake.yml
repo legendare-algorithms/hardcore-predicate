@@ -1,0 +1,47 @@
+name: Generate Snake Animation
+
+on:
+  # run automatically every 6 hours
+  schedule:
+    - cron: "0 */8 * * *" 
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  # run on every push on the master/main branch
+  push:
+    # Set a branch to deploy
+    branches:
+    - master
+    - main
+# The sequence of runs in this workflow:
+jobs:
+  # This workflow contains a single job called "generate"
+  generate:
+    name: Jobs to update dataset
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        id: generate-snake-svg
+        uses: Platane/snk@v3
+        with:
+          # github user name to read the contribution graph from (required)
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-light.svg?color_snake=#4489ec&color_dots=#4489ec,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-snake-dark.svg?color_snake=#4489ec&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+        env:
+          # required to fetch the contribution calendar from github API
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+      # push the content of <build_dir> to a branch
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push github-snake-custom.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        if: github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main'
+        with:
+        # the output branch mentioned above
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
