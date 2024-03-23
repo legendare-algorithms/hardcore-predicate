@@ -86,9 +86,15 @@ g++ -o start my_epic_pokemonGame.cpp
     </a>
 </p>
 
-  <a href = "https://www.nasa.gov/interactives/">  <img align="center" width="120" height="110" src="https://github.com/Legendary-Cynosure/Honors/blob/main/nasa.png" alt="ad astra!"></a>
-  <a href = "https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/Features-and-Functionality/IntelPyTorch_Extensions_Inference_Optimization"> <img align="center" width="100" height="50" src="https://github.com/Legendary-Cynosure/Honors/blob/main/intel.png" alt="its giving cpu"></a>
-  
+<p align="center">
+  <a href = "https://www.nasa.gov/interactives/"> 
+    <img align="center" width="120" height="110" src="https://github.com/Legendary-Cynosure/Honors/blob/main/nasa.png" alt="ad astra!">
+  </a>
+  &nbsp &nbsp
+  <a href = "https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/Features-and-Functionality/IntelPyTorch_Extensions_Inference_Optimization"> 
+    <img align="center" width="100" height="50" src="https://github.com/Legendary-Cynosure/Honors/blob/main/intel.png" alt="its giving cpu">
+  </a>
+</p>
 
 <picture>
   <source 
