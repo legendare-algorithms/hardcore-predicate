@@ -16,7 +16,7 @@
   <a>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary-Cynosure&layout=compact&langs_count=15&border_color=fff&border_radius=5&bg_color=222222&title_color=ebedf0&text_color=00F3FF&hide=nesC,Tcl" />
   </a>
-  <a><img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/ucalifornia.png" alt="fiat lux!"></a>
+  <a href ="https://www.universityofcalifornia.edu/"><img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/ucalifornia.png" alt="fiat lux!"></a>
 </div>
 
 ## ⚡ Languages & Tools
