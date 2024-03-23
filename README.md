@@ -79,6 +79,14 @@ g++ -o start my_epic_pokemonGame.cpp
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>         .     /        .               .       \    .''</a> 
 </pre>
 
+
+<p align="center">
+    <a>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendary-Cynosure&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Alex's%20Repository%20Contributions" width="95%" alt="activity graph">
+    </a>
+</p>
+
+
 <picture>
   <source 
     media="(prefers-color-scheme: dark)"
