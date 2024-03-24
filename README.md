@@ -37,7 +37,7 @@
 
 **`Thank you, come again!`**
 
-![Hits](https://hits-app.vercel.app/hits?url=https://github.com/Legendary-Cynosure&bgRight=FAA0A0)
+<!--![Hits](https://hits-app.vercel.app/hits?url=https://github.com/Legendary-Cynosure&bgRight=FAA0A0) -->
 
 <pre>
 $ neofetch
