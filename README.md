@@ -93,7 +93,7 @@ g++ -o start my_epic_pokemonGame.cpp
     <img align="center" width="120" height="110" src="https://github.com/Legendary-Cynosure/Honors/blob/main/nasa.png" alt="ad astra!">
   </a>
     &nbsp &nbsp
-  <a href = "https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/Features-and-Functionality/IntelPyTorch_Extensions_Inference_Optimization"> 
+  <a href = "https://github.com/oneapi-src/oneDAL/blob/main/examples/daal/cpp/source/k_nearest_neighbors/bf_knn_dense_batch.cpp"> 
     <img align="center" width="110" height="50" src="https://github.com/Legendary-Cynosure/Honors/blob/main/intel.png" alt="its giving cpu">
   </a>
     &nbsp &nbsp
