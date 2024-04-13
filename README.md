@@ -4,13 +4,14 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/energetic-cynosure/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpPZL8Qlc4fp6M085r7JbZA)
 
-<a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
-
 ## :chart_with_upwards_trend:     Stats
 
-<!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary-Cynosure&layout=compact&theme=buefy&hide_border=true) --->
-<div style="display: flex; flex-wrap: wrap;">
-  <a href="https://github.com/Legendary-Cynosure" alt="Alex's GitHub Stats" style="margin: 5px;">
+<table>
+  <td>
+    <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
+    <!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary-Cynosure&layout=compact&theme=buefy&hide_border=true) --->
+  <div style="display: flex; flex-wrap: wrap;">
+    <a href="https://github.com/Legendary-Cynosure" alt="Alex's GitHub Stats" style="margin: 5px;">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Legendary-Cynosure&count_private=true&show_icons=true&hide_border=false&border_color=fff&border_radius=5&bg_color=222222&title_color=ebedf0&icon_color=2f96c0&text_color=00F3FF" />
   </a>
   <a>
@@ -18,6 +19,9 @@
   </a>
   <a href ="https://www.universityofcalifornia.edu/"><img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/ucalifornia.png" alt="fiat lux!"></a>
 </div>
+
+  </td>
+</table>
 
 ## ⚡ Languages & Tools
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -209,7 +213,7 @@ g++ -o start my_epic_pokemonGame.cpp
 
 <p align="center">
     <a>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendary-Cynosure&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Alex's%20Repository%20Contributions" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendary-Cynosure&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Alex's%20Recent%20Repository%20Contributions" width="95%" alt="activity graph">
     </a>
 </p>
 
