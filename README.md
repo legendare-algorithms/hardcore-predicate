@@ -39,6 +39,10 @@
   <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
+       <td align="center" width="96">
+        <a href="https://ics.uci.edu/~thornton/ics45c/Notes/"> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /></a> 
+      <br>C++
+    </td>
     <td align="center" width="96">
        <a href="https://react.dev/"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></a> 
       <br>React
@@ -52,10 +56,6 @@
     <td align="center" width="96">
         <a href="https://threejs.org/"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></a> 
       <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <a href="https://ics.uci.edu/~thornton/ics45c/Notes/"> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /></a> 
-      <br>C++
     </td>
 <!--     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
@@ -161,7 +161,7 @@
 
 <p align="center">
 
-![USA](https://img.shields.io/badge/made%20in-%F0%9F%87%BA%F0%9F%87%B8%20USA-blue.svg)
+![USA](https://img.shields.io/badge/made%20in-USA-blue.svg)
 
 **`Thank you, come again!`**
 
