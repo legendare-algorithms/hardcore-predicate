@@ -19,7 +19,6 @@
   </a>
   <a href ="https://www.universityofcalifornia.edu/"><img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/ucalifornia.png" alt="fiat lux!"></a>
 </div>
-      <a href="https://www.youtube.com/watch?v=6RUW0nqCtA0&ab_channel=klub"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/pochita.gif" alt="gif of pochita"></a>
   </td>
 </table>
 
@@ -167,6 +166,7 @@
 **`Thank you, come again!`**
 
 <!--![Hits](https://hits-app.vercel.app/hits?url=https://github.com/Legendary-Cynosure&bgRight=FAA0A0) -->
+
 
 <pre>
 $ neofetch
