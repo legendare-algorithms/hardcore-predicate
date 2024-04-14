@@ -19,8 +19,8 @@
   </a>
   <a href ="https://www.universityofcalifornia.edu/"><img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/ucalifornia.png" alt="fiat lux!"></a>
 </div>
+      <a href="https://www.youtube.com/watch?v=6RUW0nqCtA0&ab_channel=klub"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/pochita.gif" alt="gif of pochita"></a>
   </td>
-    <a href="https://www.youtube.com/watch?v=6RUW0nqCtA0&ab_channel=klub"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/pochita.gif" alt="gif of pochita"></a>
 </table>
 
 ## ⚡ Languages & Tools
