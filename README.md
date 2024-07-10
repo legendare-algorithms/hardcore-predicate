@@ -7,6 +7,7 @@ I'm currently working as an software engineer intern for a education-based start
      In my spare time, I also serve as an AmeriCorps Mentor Fellow.
         I am passionate about technology, the joy of learning, and having fun.
             I read voraciously and love crafts, especially hacking old electronics.
+
 If you want to get in touch, I have two ways that you can do that:
 </pre>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/energetic-cynosure/)
