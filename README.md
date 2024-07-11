@@ -4,10 +4,10 @@
  $  ./about.txt
  
 𖤍   I'm currently working as an software engineer intern for a education-based startup. 
-⬟   In my spare time, I also serve as an AmeriCorps Mentor Fellow.
-⬟   Previously, I have worked at Intel, IBM, Microsoft, and NASA
-⬟   I am passionate about technology, the joy of learning, and having fun.
-⬟   I read voraciously and love game making and crafts, especially hacking old electronics.
+↪   In my spare time, I also serve as an AmeriCorps Mentor Fellow.
+↪   Previously, I have worked at Intel, IBM, Microsoft, and NASA
+↪   I am passionate about technology, the joy of learning, and having fun.
+↪   I read voraciously and love game making and crafts, especially hacking old electronics.
 </pre>
 ### If you want to get in touch, I have two ways that you can do that:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/energetic-cynosure/)
