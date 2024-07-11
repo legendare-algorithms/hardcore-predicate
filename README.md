@@ -3,7 +3,7 @@
 <pre>
  $  ./about.txt
  
-𖤍   I'm currently working as an software engineer intern for a education-based startup. 
+𖤍  I'm currently working as an software engineer intern for a education-based startup. 
 ↪   In my spare time, I also serve as an AmeriCorps Mentor Fellow.
 ↪   Previously, I have worked at Intel, IBM, Microsoft, and NASA
 ↪   I am passionate about technology, the joy of learning, and having fun.
