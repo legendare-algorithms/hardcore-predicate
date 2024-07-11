@@ -1,7 +1,7 @@
 # Hi there! I'm Alex and I like to make things. <br> This is a place for learning and having fun!
 
 <pre>
- $  ./about
+ $  ./about.txt
 
 I'm currently working as an software engineer intern for a education-based startup. 
      In my spare time, I also serve as an AmeriCorps Mentor Fellow.
