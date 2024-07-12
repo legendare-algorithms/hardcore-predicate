@@ -10,7 +10,7 @@
 ↪   I read voraciously and love game making and crafts, especially hacking old electronics.
 
 </pre>
-### If you want to get in touch, I have two ways that you can do that:
+### If you want to get in touch: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/energetic-cynosure/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpPZL8Qlc4fp6M085r7JbZA)
 
