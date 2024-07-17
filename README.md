@@ -1,7 +1,6 @@
 # Hi there! I'm Alex and I like to make things. <br> This is a place for learning and having fun!
 
 * 🌍  I'm based in California
-* ✉️  You can contact me at [by mail here.](mailto:physicist86.5@gmail.com)
 * 🚀  I'm currently working as a software engineering intern for an education start-up
 * 🧠  I'm always reading and learning, currently reading Market Mind Games by Denise Shull
 * 🤝  I'm open to collaborating on interesting projects!
