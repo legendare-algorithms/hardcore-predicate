@@ -1,4 +1,12 @@
 # Hi there! I'm Alex and I like to make things. <br> This is a place for learning and having fun!
+
+* 🌍  I'm based in California
+* ✉️  You can contact me at [by mail here.](mailto:physicist86.5@gmail.com)
+* 🚀  I'm currently working as a software engineering intern for an education start-up
+* 🧠  I'm always reading and learning, currently reading Market Mind Games by Denise Shull
+* 🤝  I'm open to collaborating on interesting projects!
+* ⚡  I enjoy hackathons, competitive programming, powerlifting, cats, and AYCE Buffets
+
 ### Let's get in touch!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/energetic-cynosure/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpPZL8Qlc4fp6M085r7JbZA)
