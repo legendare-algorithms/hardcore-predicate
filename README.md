@@ -2,7 +2,7 @@
 
 * 🌍  I'm based in California
 * 🚀  I'm currently working as a software engineering intern for an education start-up
-* 🧠  I'm always reading and learning, currently reading Market Mind Games by Denise Shull and doing Google's ML Camp 
+* 🧠  On the side, I'm currently reading Market Mind Games by D. Schull and doing Google's ML Camp 
 * 🤝  I'm open to collaborating on interesting projects!
 * ⚡  I enjoy hackathons, competitive programming, powerlifting, cats, sushi, and AYCE Buffets
 
