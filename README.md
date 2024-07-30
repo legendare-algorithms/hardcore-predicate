@@ -4,7 +4,7 @@
 * 🚀  I'm currently working as a software engineering intern for an education start-up
 * 🧠  On the side, I'm currently reading Market Mind Games by D. Schull and doing Google's ML Camp 
 * 🤝  I'm open to collaborating on interesting projects!
-* ⚡  I enjoy hackathons, competitive programming, powerlifting, cats, sushi, and AYCE Buffets
+* ⚡  I enjoy hackathons, competitive programming, powerlifting, petting cats, eating sushi, and binging at AYCE Buffets
 
 ### Let's get in touch!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/energetic-cynosure/)
