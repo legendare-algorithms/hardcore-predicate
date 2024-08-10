@@ -1,7 +1,7 @@
 # Hi there! I'm Alex and I like to make things. <br> This is a place for learning and having fun!
 
 * 🌍  I'm based in California
-* 🚀  I'm currently working as a software engineering intern for an education start-up
+* 🚀  I'm currently working as a software engineering intern for a start-up
 * 🧠  On the side, I'm currently reading Market Mind Games by D. Schull and doing Google's ML Camp 
 * 🤝  I'm open to collaborating on interesting projects!
 * ⚡  I enjoy hackathons, competitive programming, powerlifting, petting cats, eating sushi, and binging at AYCE Buffets
