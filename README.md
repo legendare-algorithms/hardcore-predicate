@@ -210,7 +210,7 @@
 </div>
 
 <!--![Hits](https://hits-app.vercel.app/hits?url=https://github.com/Legendary-Cynosure&bgRight=FAA0A0) -->
-![Visitor Count](https://profile-counter.glitch.me/{Legendary-Cynosure}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{Legendary-Cynosure}/count.svg) -->
 
 
 
