@@ -12,7 +12,7 @@
 
 </div>
 
-## :chart_with_upwards_trend:     Stats
+## :chart_with_upwards_trend:     Statistics
 
 <table>
   <td>
@@ -29,17 +29,16 @@
           <img src="https://raw.githubusercontent.com/legendary-cynosure/legendary-cynosure/output/snake.svg" alt="Snake animation" />
     </a>
 </div>
+    <p align="center">
+    <a>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendary-Cynosure&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Activity" width="95%" alt="activity graph">
+    </a>
+</p>
   </td>
 
 </table>
 
-<p align="center">
-    <a>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendary-Cynosure&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contributions" width="95%" alt="activity graph">
-    </a>
-</p>
-
-## ⚡ Languages & Tools
+## ⚡ Languages, Tools, and Previous Experience
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
