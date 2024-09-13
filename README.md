@@ -20,8 +20,9 @@
     <!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary-Cynosure&layout=compact&theme=buefy&hide_border=true) --->
   <div style="display: flex; flex-wrap: wrap;">
     <a href="https://github.com/Legendary-Cynosure" alt="Alex's GitHub Stats" style="margin: 5px;">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Legendary-Cynosure&count_private=true&show_icons=true&hide_border=false&border_color=fff&border_radius=5&bg_color=222222&title_color=ebedf0&icon_color=2f96c0&text_color=00F3FF" />
-  </a>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Legendary-Cynosure&count_private=true&show_icons=true&hide_border=false&border_color=fff&border_radius=5&bg_color=222222&title_color=ebedf0&icon_color=2f96c0&text_color=00F3FF" />
+      <img src="https://raw.githubusercontent.com/edwardchhun/edwardchhun/output/snake.svg" alt="Snake animation" />
+    </a>
   <a>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary-Cynosure&layout=compact&langs_count=15&border_color=fff&border_radius=5&bg_color=222222&title_color=ebedf0&text_color=00F3FF&hide=nesC,Tcl" />
   </a>
