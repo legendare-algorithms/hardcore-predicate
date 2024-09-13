@@ -6,7 +6,9 @@
 * 🤝  I love working on interesting projects and solving challenges!
 * ⚡   I enjoy hackathons, competitive programming, powerlifting, petting cats, and binging at AYCE Buffets
 *     The three things I value most in life are compassion, kindness, and being self-sufficient.
-*  Research Interests: Data Compression Algorithms and Information Theory
+```diff
++  Research Interests: Data Compression Algorithms and Information Theory
+```
 
 ### Let's get in touch!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/energetic-cynosure/)
