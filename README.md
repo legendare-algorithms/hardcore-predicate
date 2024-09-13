@@ -1,10 +1,10 @@
 # Hi there! I'm Alex and I like to make things. <br> This is a place for learning and having fun!
 
-* 🌍  I'm based in California
-* 🚀  I'm currently working as a software engineering intern for a start-up
-* 🧠  On the side, I'm currently reading Market Mind Games by D. Schull and doing Google's ML Camp 
-* 🤝  I'm open to collaborating on interesting projects!
-* ⚡  I enjoy hackathons, competitive programming, powerlifting, petting cats, eating sushi, and binging at AYCE Buffets
+* 🌍  I'm a software engineer & writer based in CA
+* 🚀  I'm currently working with a start-up
+* 🧠  On the side, I'm currently reading Market Mind Games and doing Google's ML Camp 
+* 🤝  I love working on interesting projects and solving challenges!
+* ⚡   I enjoy hackathons, competitive programming, powerlifting, petting cats, and binging at AYCE Buffets
 
 ### Let's get in touch!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/energetic-cynosure/)
@@ -25,6 +25,9 @@
   <a>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary-Cynosure&layout=compact&langs_count=15&border_color=fff&border_radius=5&bg_color=222222&title_color=ebedf0&text_color=00F3FF&hide=nesC,Tcl" />
   </a>
+    <a>
+          <img src="https://raw.githubusercontent.com/legendary-cynosure/legendary-cynosure/output/snake.svg" alt="Snake animation" />
+    </a>
 </div>
   </td>
 
@@ -32,7 +35,7 @@
 
 <p align="center">
     <a>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendary-Cynosure&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Alex's%20Recent%20Repository%20Contributions" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendary-Cynosure&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contributions" width="95%" alt="activity graph">
     </a>
 </p>
 
