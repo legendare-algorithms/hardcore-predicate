@@ -1,4 +1,4 @@
-# Hi there! I'm Alex and I like to make things. <br> This is a place for learning and having fun!
+# Hi there! I'm Alex and this is my place for learning and having fun! 
 
 * 🌍  I'm a software engineer & writer based in CA who loves electro swing jazz and French Bossa Nova
 * 🚀  I'm currently working with a start-up
