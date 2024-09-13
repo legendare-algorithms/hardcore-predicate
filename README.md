@@ -1,6 +1,6 @@
 # Hi there! I'm Alex and I like to make things. <br> This is a place for learning and having fun!
 
-* 🌍  I'm a software engineer & writer based in CA
+* 🌍  I'm a software engineer & writer based in CA who loves electro swing jazz and French Bossa Nova
 * 🚀  I'm currently working with a start-up
 * 🧠  On the side, I'm currently reading Market Mind Games and doing Google's ML Camp 
 * 🤝  I love working on interesting projects and solving challenges!
