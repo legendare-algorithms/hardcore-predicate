@@ -7,7 +7,7 @@
 * ⚡   I enjoy hackathons, competitive programming, powerlifting, petting cats, and binging at AYCE Buffets
 *     The three things I value most in life are compassion, kindness, and being self-sufficient.
 ```diff
-+  Research Interests: Data Compression Algorithms and Information Theory
++  Research Interests: Data Compression Algorithms, Bioinformatics, and Information Theory
 ```
 
 ### Let's get in touch!
