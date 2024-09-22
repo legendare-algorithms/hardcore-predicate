@@ -1,4 +1,4 @@
-# Hi there! I'm Alex and this is my place for learning and having fun! 🌊
+# Hi there! I'm Alex and this is my place for learning and having fun! 🌊🌊🌊🌊🌊 🏄🏻‍♂️ 🌊🌊
 <!-- * 🌍  I'm a software engineer & writer based in CA/Cambridge who loves electro swing jazz and French Bossa Nova
 * 🧠  On the side, I'm currently reading Market Mind Games and doing Google's ML Camp  -->
 * 🤝  I love working on interesting projects and solving challenges! 
