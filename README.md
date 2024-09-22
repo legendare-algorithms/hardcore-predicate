@@ -1,5 +1,4 @@
 # Hi there! I'm Alex and this is my place for learning and having fun! 
-
 <!-- * 🌍  I'm a software engineer & writer based in CA/Cambridge who loves electro swing jazz and French Bossa Nova
 * 🧠  On the side, I'm currently reading Market Mind Games and doing Google's ML Camp -->
 * 🤝  I love working on interesting projects and solving challenges! 
@@ -39,7 +38,6 @@
     </a>
 </p>
   </td>
-
 </table>
 
 ## ⚡ Languages, Tools, and Previous Experience
@@ -220,7 +218,7 @@
 <!--![Hits](https://hits-app.vercel.app/hits?url=https://github.com/Legendary-Cynosure&bgRight=FAA0A0) -->
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{Legendary-Cynosure}/count.svg) -->
 
-
+<img src="https://count.getloli.com/get/@:Legendary-Cynosure?theme=repl.it">
 
 <pre>
 $ neofetch
@@ -263,6 +261,7 @@ g++ -o start my_epic_pokemonGame.cpp
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>         /      ,'      |               |,'    \-.._,.'/'</a>
  <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>         .     /        .               .       \    .''</a> 
 </pre>
+
 
 
 
