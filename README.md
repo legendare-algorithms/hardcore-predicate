@@ -3,7 +3,7 @@
 * 🧠  On the side, I'm currently reading Market Mind Games and doing Google's ML Camp  -->
 * 🤝  I love working on interesting projects and solving challenges! 
 * ⚡   I enjoy hackathons, competitive programming, powerlifting, petting cats, and binging at AYCE Buffets
-* ⚡    The three things I value most in life are compassion, kindness, and being self-sufficient.
+* 🍃  The three things I value most in life are compassion, kindness, and being self-sufficient.
 ```diff
 +  Research Interests: Data Compression Algorithms, Bioinformatics, and Information Theory
 ```
