@@ -9,7 +9,7 @@
 ### Let's get in touch!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/energetic-cynosure/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpPZL8Qlc4fp6M085r7JbZA)
-</div>
+<div>      <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="center" src="https://github.com/Legendary-Cynosure/Honors/blob/main/calvin_n_hobbes.gif" alt="gif of cavin & hobbes dancing"></a> </div>
 
 ## :chart_with_upwards_trend:     Statistics
 <table>
