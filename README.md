@@ -1,10 +1,12 @@
 # Hi there! I'm Alex and this is my place for learning and having fun!
 * 🌍  I'm a software engineer & writer who loves electro swing jazz and French Bossa Nova
-* 🧠  On the side, I'm currently doing Google's ML Camp and reading some books for fun
 * 🤝  I love working on interesting projects with people and solving fun challenges! 
-* ⚡   In my time off, I enjoy competing in hackathons, powerlifting, petting cats, and eating ribeye steak
 * 🍃  The three things I value most in life are compassion, kindness, and being self-sufficient.
-<!-- * * 🌍  I'm a software engineer & writer based in CA/Cambridge who loves electro swing jazz and French Bossa Nova --->
+<!-- 
+* 🌍  I'm a software engineer & writer based in CA/Cambridge who loves electro swing jazz and French Bossa Nova 
+* 🧠  On the side, I'm currently doing Google's ML Camp and reading some books for fun
+* ⚡   In my time off, I enjoy competing in hackathons, powerlifting, petting cats, and eating ribeye steak
+--->
 
 ### Let's get in touch!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/energetic-cynosure/)
