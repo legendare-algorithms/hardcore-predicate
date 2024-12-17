@@ -7,8 +7,6 @@
 * 🧠  On the side, I'm currently doing Google's ML Camp and reading some books for fun
 * ⚡   In my time off, I enjoy competing in hackathons, powerlifting, petting cats, and eating ribeye steak
 --->
-
-## :chart_with_upwards_trend:     Statistics
 <table>
   <td>
       <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
