@@ -56,7 +56,7 @@ g++ -o start my_epic_pokemonGame.cpp
 Previous Experience
 -------------------
 * Intel Corperation: Data Scientist (Intern) 
-> Worked on graduate level forecasting on demand data across processer lines
+> Worked on graduate level forecasting project for demand data across Intel's processer lines
 * NASA (Student researcher)
 > Researched Ionic Liquid Sorbents 
 * CA.gov
