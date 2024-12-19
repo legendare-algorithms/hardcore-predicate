@@ -57,7 +57,7 @@ Previous Experience
 -------------------
 * Intel Corperation: Data Scientist (Intern) 
 > Worked on graduate level forecasting on demand data across processer lines
-* NASA (Student researcher
+* NASA (Student researcher)
 > Researched Ionic Liquid Sorbents 
 * CA.gov
 > Wrote python scripts and developed internal tools to automate data clearning & verification tasks
