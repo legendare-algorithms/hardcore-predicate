@@ -12,47 +12,6 @@ Hi there 👋
 </pre>
 
 <pre>
-$ neofetch
-██████████ 100%     Load complete. 
-g++ -o start my_epic_pokemonGame.cpp 
- ./start
------------- ---------------- ----------------- ----------- -------------- -------------- ---------------- ----------- 
- > Charizard! I choose you!
- 
- <a href='https://help.sap.com/docs/SAP_HANA_PLATFORM/2cfbc5cf2bc14f028cfbe2a2bba60a50/1027f8a6535d453691e78466ba6151fa.html'>✶         `.     `.  ,       ✦ </a>                                             
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              .--'  .._,'"-' `. </a>          
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            .    .'         `' </a>                              
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            `.   /    ✶      ,'  </a>                
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              `  '--.   ,-"'"      </a>        
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              `'`   |  "             </a>        RAWR!!!! :]
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>✦.               -. \  |              </a>        
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>                   `--\.'      ___.   </a>
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>                        \      ._, \.   </a>       
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              _.,        `.   <  <\               . </a>    
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>           ,' '           `, `.   | \            ( `</a>
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>        ../, `.            `  |    .\ *`.         \ \_</a>    
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>       ,' ,..  .           _.,'    ||\|            )  '".</a>  
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>       , ,'   \           ,'.-.`-._,'  |           .  _._`.</a>   
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>     ,' /      \ \        `' ' `--/   | \          / /   ..\ </a>   
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>   .'  /        \ .         |\__ - _ ,'` `        / /     `.`.</a>     
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>  |  '          ..         `-...-"  |  `-'      / /        . `. </a>  
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>   | /            \\            |    |          / /          `. `.</a>  
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>  , /            .   .          |    |         / /             ` `</a>      
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>  / /          ,. ,`._ `-_       |    |  _   ,-' /                ` \ </a>      
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>/ .           "`_/. `-_ \_,.  ,'    +-' `-'  _,        ..,-.      \`.</a>        
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'> '         .--    ,'   `    '.       \\__.---'     _   .'   '      \ \ </a>
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>' /          `.'    \     .' /          \..      ,_|/   `.  ,'`      \ ' </a>
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>|'      _.-""` `.    \ _,'  `            \ `.___`.'"`-.  , |   |    | \ </a>   
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>||    ,'      `. `.   '       _,...._        `  |    `/ '  |   '     .|</a>     
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>||  ,'          `. ;.,.---' ,'       `.   `.. `-\'  .-\' /_ .'    ;_   ||</a>     
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>|| '                     / /           `   | `   ,'   ,' '.    !  `. ||</a>        
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>||/            _,-------/ '              . |  `-'    /         /    `||</a>         
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>|          ,' .-   ,' ||               | .-.        `.      .'     ||</a>      
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>`'        ,'    `".'    |               |    `.        '. -.'       `'</a>   
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>         /      ,'      |               |,'    \-.._,.'/'</a>
- <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>         .     /        .               .       \    .''</a> 
-</pre>
-<pre>
 Previous Experience
 -------------------
 * Intel Corperation: (Summer Intern)
@@ -94,6 +53,48 @@ Previous Experience
 <!-- <a href="https://www.youtube.com/watch?v=rloNvQ0diwE&ab_channel=evilicious"> <img src="https://img.shields.io/badge/made%20in-USA-blue.svg" alt="made-in-USA-flag"></a> -->
 
 <!-- <a href="https://www.youtube.com/watch?v=GJsNiZDS4Ps"> <img src="https://img.shields.io/badge/made%20in-USA-blue.svg" alt="made-in-USA-flag"></a>
+
+<pre>
+$ neofetch
+██████████ 100%     Load complete. 
+g++ -o start my_epic_pokemonGame.cpp 
+ ./start
+------------ ---------------- ----------------- ----------- -------------- -------------- ---------------- ----------- 
+ > Charizard! I choose you!
+ 
+ <a href='https://help.sap.com/docs/SAP_HANA_PLATFORM/2cfbc5cf2bc14f028cfbe2a2bba60a50/1027f8a6535d453691e78466ba6151fa.html'>✶         `.     `.  ,       ✦ </a>                                             
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              .--'  .._,'"-' `. </a>          
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            .    .'         `' </a>                              
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>            `.   /    ✶      ,'  </a>                
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              `  '--.   ,-"'"      </a>        
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              `'`   |  "             </a>        RAWR!!!! :]
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>✦.               -. \  |              </a>        
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>                   `--\.'      ___.   </a>
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>                        \      ._, \.   </a>       
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>              _.,        `.   <  <\               . </a>    
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>           ,' '           `, `.   | \            ( `</a>
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>        ../, `.            `  |    .\ *`.         \ \_</a>    
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>       ,' ,..  .           _.,'    ||\|            )  '".</a>  
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>       , ,'   \           ,'.-.`-._,'  |           .  _._`.</a>   
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>     ,' /      \ \        `' ' `--/   | \          / /   ..\ </a>   
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>   .'  /        \ .         |\__ - _ ,'` `        / /     `.`.</a>     
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>  |  '          ..         `-...-"  |  `-'      / /        . `. </a>  
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>   | /            \\            |    |          / /          `. `.</a>  
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>  , /            .   .          |    |         / /             ` `</a>      
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>  / /          ,. ,`._ `-_       |    |  _   ,-' /                ` \ </a>      
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>/ .           "`_/. `-_ \_,.  ,'    +-' `-'  _,        ..,-.      \`.</a>        
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'> '         .--    ,'   `    '.       \\__.---'     _   .'   '      \ \ </a>
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>' /          `.'    \     .' /          \..      ,_|/   `.  ,'`      \ ' </a>
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>|'      _.-""` `.    \ _,'  `            \ `.___`.'"`-.  , |   |    | \ </a>   
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>||    ,'      `. `.   '       _,...._        `  |    `/ '  |   '     .|</a>     
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>||  ,'          `. ;.,.---' ,'       `.   `.. `-\'  .-\' /_ .'    ;_   ||</a>     
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>|| '                     / /           `   | `   ,'   ,' '.    !  `. ||</a>        
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>||/            _,-------/ '              . |  `-'    /         /    `||</a>         
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>|          ,' .-   ,' ||               | .-.        `.      .'     ||</a>      
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>`'        ,'    `".'    |               |    `.        '. -.'       `'</a>   
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>         /      ,'      |               |,'    \-.._,.'/'</a>
+ <a href='https://github.com/Legendary-Cynosure/Legendary-Cynosure'>         .     /        .               .       \    .''</a> 
+</pre>
 
 <!-- **`Thank you, come again!`** --->
 
