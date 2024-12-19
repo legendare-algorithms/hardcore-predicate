@@ -8,7 +8,7 @@
   
 Hi there 👋 
   --- Welcome to my GitHub profile.
-  --- Contact: `echo 'cGh5c2ljaXN0ODYuNUBnbWFpbC5jb20==' | base64 -d`
+  --- Contact: echo 'cGh5c2ljaXN0ODYuNUBnbWFpbC5jb20==' | base64 -d`
 </pre>
 
 <pre>
