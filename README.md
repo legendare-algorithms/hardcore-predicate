@@ -5,8 +5,7 @@
 <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
 
 <pre>
-  
-Hi there 👋 
+  Hi there 👋 
   --- Welcome to my GitHub profile.
   --- Contact: echo 'cGh5c2ljaXN0ODYuNUBnbWFpbC5jb20==' | base64 -d`
 </pre>
