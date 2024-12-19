@@ -55,13 +55,13 @@ g++ -o start my_epic_pokemonGame.cpp
 <pre>
 Previous Experience
 -------------------
-* Intel Corperation: Data Scientist (Intern) 
+* Intel Corperation: (Summer Intern)
 > Worked on graduate level forecasting project for demand data across Intel's processer lines
-* NASA (Student researcher)
+* NASA: (Student researcher)
 > Researched Ionic Liquid Sorbents 
-* CA.gov
+* CA.gov: (Insfrastructure Intern)
 > Wrote python scripts and developed internal tools to automate data clearning & verification tasks
-* IBM
+* IBM: (Americas Student Partner)
 > Company Keynote speaker in 2021 & 2020
 > Worked with over 2.3  Million students and 116 schools to develop STEM education programs
 -------------------
