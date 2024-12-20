@@ -36,9 +36,9 @@
     </a>
   </p>
          <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
-      <a> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/a.gif" alt="gif of a"> </a>
- <a href="https://github.com/Legendary-Cynosure"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Legendary-Cynosure&theme=nord_dark"></a>
-     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+         <a> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/a.gif" alt="gif of a"> </a>
+         <a href="https://github.com/Legendary-Cynosure"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Legendary-Cynosure&theme=nord_dark"></a>
+         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
  </td>
 
 <!--- ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legendary-Cynosure&show_icons=true&theme=material-palenight) [![GitHub Streak](https://streak-stats.demolab.com/?user=Legendary-Cynosure&theme=material-palenight)](https://git.io/streak-stats)  -->
