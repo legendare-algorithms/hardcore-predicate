@@ -46,14 +46,18 @@
       <div class="row">
         <div class="column">
           <a href="https://github.com/Legendary-Cynosure"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Legendary-Cynosure&theme=nord_dark"></a>
-            <img alt="Legendary-Cynosure Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Legendary-Cynosure&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
         </div>
     </div>
     <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br>
   </p>
  </td>
+</table>
 
-<!--- ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legendary-Cynosure&show_icons=true&theme=material-palenight) [![GitHub Streak](https://streak-stats.demolab.com/?user=Legendary-Cynosure&theme=material-palenight)](https://git.io/streak-stats)  -->
+<!--- 
+
+           <img alt="Legendary-Cynosure Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Legendary-Cynosure&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legendary-Cynosure&show_icons=true&theme=material-palenight) [![GitHub Streak](https://streak-stats.demolab.com/?user=Legendary-Cynosure&theme=material-palenight)](https://git.io/streak-stats)  -->
 <!-- <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat">  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendary-Cynosure&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=𝔄𝔠𝔱𝔦𝔳𝔦𝔱𝔶" width=1000 alt="activity graph">  
 
 <a href = "https://github.com/Legendary-Cynosure"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendary-Cynosure&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a>
@@ -111,11 +115,6 @@ g++ -o start my_epic_pokemonGame.cpp
 </pre>
 
 <!-- **`Thank you, come again!`** --->
-
-
- </td>
-</table>
-
 
 
 
