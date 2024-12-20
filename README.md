@@ -38,7 +38,6 @@
       <img align="center" width="110" height="110" src="https://github.com/Legendary-Cynosure/Honors/blob/main/us.png" alt="usa">
     </a>
   </p>
-         <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary-Cynosure&layout=compact&langs_count=15&theme=nord_dark"/>  
          <a href="https://github.com/Legendary-Cynosure"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Legendary-Cynosure&theme=nord_dark"></a>
          <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br>
  </td>
