@@ -39,7 +39,7 @@
     </a>
   </p>
          <a href="https://github.com/Legendary-Cynosure"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Legendary-Cynosure&theme=nord_dark"></a>
-         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+         <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br>
  </td>
 
 <!--- ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legendary-Cynosure&show_icons=true&theme=material-palenight) [![GitHub Streak](https://streak-stats.demolab.com/?user=Legendary-Cynosure&theme=material-palenight)](https://git.io/streak-stats)  -->
