@@ -1,17 +1,12 @@
 
 <table>
   <td>
-
-  <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
-  
-  <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/a.gif" alt="gif of a"> </a>    
-  
-  <pre>
+    <pre>
     Hi there 👋 
     --- Welcome to my GitHub profile.
     --- Contact: echo 'cGh5c2ljaXN0ODYuNUBnbWFpbC5jb20==' | base64 -d`
     --- Linkedin: echo 'aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2VuZXJnZXRpYy1jeW5vc3VyZS8='| base64 -d
-  </pre>
+    </pre>
   
   <pre>
   Previous Experience
@@ -42,8 +37,15 @@
     </a>
   </p>
 
+ </td>
+ <td>
  <a href="https://github.com/Legendary-Cynosure"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Legendary-Cynosure&theme=nord_dark"></a>
-
+ </td>
+ <td>
+  <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
+  
+  <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/a.gif" alt="gif of a"> </a>    
+  </td>
 
 <!--- ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legendary-Cynosure&show_icons=true&theme=material-palenight) [![GitHub Streak](https://streak-stats.demolab.com/?user=Legendary-Cynosure&theme=material-palenight)](https://git.io/streak-stats)  -->
 <!-- <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat">  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendary-Cynosure&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=𝔄𝔠𝔱𝔦𝔳𝔦𝔱𝔶" width=1000 alt="activity graph">  
