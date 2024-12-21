@@ -1,7 +1,7 @@
 <table>
   <td>
-         <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
-         <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/a.gif" alt="gif of a"> </a>
+<!--          <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
+         <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/a.gif" alt="gif of a"> </a> -->
          <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br>
 
 ```bash
@@ -40,6 +40,10 @@
       <img align="center" width="110" height="110" src="https://github.com/Legendary-Cynosure/Honors/blob/main/us.png" alt="usa">
     </a>
   </p>
+
+  <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
+         <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/a.gif" alt="gif of a"> </a>
+         
   <p align="center">
     <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94">
         <img alt="Legendary-Cynosure OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Legendary-Cynosure&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /> 
