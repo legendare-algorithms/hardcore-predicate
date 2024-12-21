@@ -48,8 +48,7 @@
  </td>
 </table>
 
-<!--- 
-<!--       <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94">
+<!---       <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94">
         <img alt="Legendary-Cynosure OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Legendary-Cynosure&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /> 
       </a> 
     <div>
@@ -58,9 +57,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 </div> -->
 
-           <img alt="Legendary-Cynosure Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Legendary-Cynosure&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legendary-Cynosure&show_icons=true&theme=material-palenight) [![GitHub Streak](https://streak-stats.demolab.com/?user=Legendary-Cynosure&theme=material-palenight)](https://git.io/streak-stats)  -->
+           <img alt="Legendary-Cynosure Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Legendary-Cynosure&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /> ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legendary-Cynosure&show_icons=true&theme=material-palenight) [![GitHub Streak](https://streak-stats.demolab.com/?user=Legendary-Cynosure&theme=material-palenight)](https://git.io/streak-stats)  
 <!-- <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat">  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendary-Cynosure&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=𝔄𝔠𝔱𝔦𝔳𝔦𝔱𝔶" width=1000 alt="activity graph">  
 
 <a href = "https://github.com/Legendary-Cynosure"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Legendary-Cynosure&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a>
