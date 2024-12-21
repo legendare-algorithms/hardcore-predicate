@@ -43,8 +43,9 @@
   </p>
   <p align="center">
     <a href="https://github.com/Legendary-Cynosure"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Legendary-Cynosure&theme=nord_dark"></a>
-          &nbsp &nbsp
-     <img alt="Legendary-Cynosure OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Legendary-Cynosure&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+      <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94">
+        <img alt="Legendary-Cynosure OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Legendary-Cynosure&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /> 
+      </a>
     <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br>
   </p>
  </td>
