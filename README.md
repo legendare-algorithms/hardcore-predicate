@@ -11,7 +11,7 @@
   --- Linkedin: echo 'aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2VuZXJnZXRpYy1jeW5vc3VyZS8='| base64 -d
   ---  Web3Authkey: APKTIDCRMZCDAVkJdOenOj-EylvStTPxLjvXneL69hPvq7m8WqYg
   --- Top Languages: C++, Rust, Python, Ocaml
-  --- DoD CyberSentinel Program
+  --- Highlights: DoD CyberSentinel Program
 ```
   <pre>
   Previous Experience
