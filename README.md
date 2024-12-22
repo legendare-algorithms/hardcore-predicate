@@ -28,7 +28,7 @@
   -------------------
   </pre>
   
-<br></br>
+<br>
 
   <p align="center">
     <a href = "https://eyes.nasa.gov/apps/exo/#/spacecraft/sc_jwst?browse_destination=Featured"> 
