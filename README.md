@@ -14,6 +14,8 @@
   <pre>
   Previous Experience
   -------------------
+  * DoD CyberSentinel
+  > Competed against professionals in OSINT and Pentesting Challenges
   * Intel Corperation: (Summer Intern)
   > Worked on graduate level forecasting project for demand data across Intel's processer lines
   * NASA: (Student researcher)
