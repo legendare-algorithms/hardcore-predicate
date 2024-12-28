@@ -24,7 +24,7 @@
   > Wrote python scripts and developed internal tools to automate data cleaning & verification tasks
   * IBM: (Americas Student Partner)
   > Company Keynote speaker in 2021 & 2020
-  > Worked with over 2.3  Million students and 116 schools to enhance STEM education programs
+  > Worked with over 2.3  Million students and 116 schools, got $10k in funding
   -------------------
   </pre>
   
