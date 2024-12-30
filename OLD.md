@@ -1,4 +1,32 @@
 
+
+<pre>
+$ neofetch
+██████████ 100%     Load complete. 
+g++ -o start Jedi.cpp 
+ ./start
+------------ ---------------- ----------------- ----------- -------------- -------------- ---------------- ----------- 
+ > Initialize Republic Beacon!
+
+⠀⠀⠀⠀⡠⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀
+⠀⠀⠀⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢱⡄⠀⠀
+⠀⠀⣼⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣷⡄⠀
+⢘⢸⣿⣿⣦⠀⠀⠀⠀⠄⠀⠀⠀⣠⣿⣿⡇⢠
+⣾⡘⣿⣿⣿⡷⠀⠀⠀⡇⠀⠀⠰⣿⣿⣿⡇⣼
+⢻⣧⣻⣿⣿⠁⠀⠀⠀⡇⠀⠀⠀⢿⣿⡿⣱⣿
+⠚⣿⣷⣿⣿⠀⠀⠈⣄⣇⠂⠀⠀⢸⣿⣿⣿⡧
+⠈⢿⣿⣿⣿⡀⠀⠀⡿⡿⡃⠀⠀⣾⣿⣿⣿⠃
+⠀⠘⢿⣿⣿⣿⡀⠘⠀⡇⠀⢀⣼⣿⣿⡿⠃⠀
+⠀⠀⠀⠉⠻⠿⢿⣦⣤⣇⣴⣿⠿⠟⠋⠀⠀⠀
+
+</pre>
+
+
+
+
+
+
+
 ## ⚡ Languages, Tools, and Previous Experience
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
