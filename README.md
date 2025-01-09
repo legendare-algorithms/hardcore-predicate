@@ -68,12 +68,13 @@
 			<!-- <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img src="https://visitcount.itsvg.in/api?id=legendary-cynosure&icon=0&color=0"></a> -->
 		</td>
 	</tr>
-	<tr>
-		<td><a href="https://github.com/legendary-cynosure"><img src="https://streak-stats.demolab.com?user=jparedesDS&theme=nord&hide_border=true"></a></td>
+<!-- 	<tr> -->
+<!-- 		<td><a href="https://github.com/legendary-cynosure"><img src="https://streak-stats.demolab.com?user=jparedesDS&theme=nord&hide_border=true"></a></td>
 		<td><a href="https://github.com/legendary-cynosure"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legendary-cynosure&theme=nord_dark"></a></td>
-	</tr>
+	</tr> -->
 </table>
-<a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br>
- </td>
-</table>
+<!-- 	<td>
+		<a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br>
+ 	</td> -->
+<!-- </table> -->
 
