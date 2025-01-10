@@ -35,13 +35,18 @@
     <a href = "https://eyes.nasa.gov/apps/exo/#/spacecraft/sc_jwst?browse_destination=Featured"> 
       <img align="center" width="120" height="110" src="https://github.com/Legendary-Cynosure/Honors/blob/main/nasa.png" alt="ad astra!">
     </a>
-      &nbsp &nbsp
+	  &nbsp &nbsp
+    <a href = "https://data.gov/"> 
+      <img align="center" width="110" height="110" src="https://github.com/Legendary-Cynosure/Honors/blob/main/us.png" alt="usa">
+    </a>
+          &nbsp &nbsp
     <a href = "https://github.com/oneapi-src/oneDAL/blob/main/examples/daal/cpp/source/k_nearest_neighbors/bf_knn_dense_batch.cpp"> 
       <img align="center" width="110" height="50" src="https://github.com/Legendary-Cynosure/Honors/blob/main/intel.png" alt="its giving cpu">
     </a>
-      &nbsp &nbsp
-    <a href = "https://data.gov/"> 
-      <img align="center" width="110" height="110" src="https://github.com/Legendary-Cynosure/Honors/blob/main/us.png" alt="usa">
+         &nbsp &nbsp
+     <a>
+	<a href = "https://ca.gov/"> 
+		<img align="center" width="200" height="210" src= "https://github.com/Legendary-Cynosure/Honors/blob/main/CAgov-logo.svg" alt = "ca.gov">
     </a>
   </p>
   
