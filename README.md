@@ -11,6 +11,7 @@
   --- Linkedin: echo 'aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2VuZXJnZXRpYy1jeW5vc3VyZS8='| base64 -d
   --- Top Languages: C++, Rust, Python, Ocaml
 ```
+
   <pre>
   Previous Experience
   -------------------
@@ -62,6 +63,7 @@
          -->
 
 </table>
+
 <table>
 	<tr>
 		<td colspan = "2"><a href = "https://github.com/legendary-cynosure"><img alt="Legendary-Cynosure OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Legendary-Cynosure&bg_color=RRGGBBAA&title_color=00e7f0&color=00e7f0&line=00e7f0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
@@ -69,10 +71,27 @@
 		</td>
 	</tr>
 <!-- 	<tr> -->
-<!-- 		<td><a href="https://github.com/legendary-cynosure"><img src="https://streak-stats.demolab.com?user=jparedesDS&theme=nord&hide_border=true"></a></td>
+<!-- 		<td><a href="https://github.com/legendary-cynosure"><img src="https://streak-stats.demolab.com?user=legendary-cynosure&theme=nord&hide_border=true"></a></td>
 		<td><a href="https://github.com/legendary-cynosure"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legendary-cynosure&theme=nord_dark"></a></td>
 	</tr> -->
+	<td>
+	</td>
 </table>
+
+
+<table>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="https://github.com/legendary-cynosure" alt="Alexs GitHub Stats" style="margin: 5px;">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=legendary-cynosure&count_private=true&show_icons=true&theme=nord" />
+  </a>
+  <a href="https://github.com/legendary-cynosure" alt="Alex's GitHub Stats" style="margin: 5px;">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendary-cynosure&layout=donut&langs_count=15&theme=nord" />
+  </a>
+	
+</div>
+</table>
+
 <!-- 	<td>
 		<a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br>
  	</td> -->
