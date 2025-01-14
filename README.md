@@ -12,8 +12,9 @@
   --- Top Languages: C++, Rust, Python, Ocaml
 ```
 
+<details>
+<summary> <h1> Corperate Experience </h1> </summary>
   <pre>
-  Previous Experience
   -------------------
   * DoD CyberSentinel
   > Competed against professionals in OSINT and Pentesting Challenges
@@ -28,6 +29,8 @@
   > Worked with over 2.3  Million students and 116 schools, got $10k in funding
   -------------------
   </pre>
+</details>
+
   
 <br>
 
