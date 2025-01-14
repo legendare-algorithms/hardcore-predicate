@@ -13,7 +13,7 @@
 ```
 
 <details>
-<summary> <h1> Corperate Experience </h1> </summary>
+<summary> <h1> Professional Experience </h1> </summary>
   <pre>
   -------------------
   * DoD CyberSentinel
