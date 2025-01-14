@@ -12,8 +12,7 @@
   --- Top Languages: C++, Rust, Python, Ocaml
 ```
 
-<details>
-<summary> <h1> Professional Experience </h1> </summary>
+<h1> Professional Experience </h1> 
   <pre>
   -------------------
   * DoD CyberSentinel -> Competed against professionals in OSINT and Pentesting Challenges
@@ -50,10 +49,6 @@
   
 <br>
 
-</details>
-
-  
- 
 <!--  <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
          <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/a.gif" alt="gif of a"> </a>
 
