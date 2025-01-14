@@ -16,16 +16,13 @@
 <summary> <h1> Professional Experience </h1> </summary>
   <pre>
   -------------------
-  * DoD CyberSentinel
-  > Competed against professionals in OSINT and Pentesting Challenges
+  * DoD CyberSentinel -> Competed against professionals in OSINT and Pentesting Challenges
   * Intel Corperation: (Summer Intern)
   > Worked on graduate level forecasting project for demand data across Intel's processer lines
-  * NASA: (Student researcher)
-  > Researched Ionic Liquid Sorbents 
+  * NASA: (Student researcher) --> Researched Ionic Liquid Sorbents 
   * CA.gov: (Insfrastructure Intern)
   > Wrote python scripts and developed internal tools to automate data cleaning & verification tasks
-  * IBM: (Americas Student Partner)
-  > Company Keynote speaker in 2021 & 2020
+  * IBM: (Americas Student Partner) --> Company Keynote speaker in 2021 & 2020
   > Worked with over 2.3  Million students and 116 schools, got $10k in funding
   -------------------
   </pre>
