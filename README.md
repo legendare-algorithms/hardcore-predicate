@@ -26,10 +26,8 @@
   > Worked with over 2.3  Million students and 116 schools, got $10k in funding
   -------------------
   </pre>
-</details>
 
-  
-<br>
+ <br>
 
   <p align="center">
     <a href = "https://eyes.nasa.gov/apps/exo/#/spacecraft/sc_jwst?browse_destination=Featured"> 
@@ -51,6 +49,10 @@
   </p>
   
 <br>
+
+</details>
+
+  
  
 <!--  <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
          <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/a.gif" alt="gif of a"> </a>
