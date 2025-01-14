@@ -7,7 +7,7 @@
 <h1> Professional Experience </h1> 
   <pre>
   -------------------
-  * DoD CyberSentinel -> Competed against professionals in OSINT and Pentesting Challenges
+  * DoD CyberSentinel (PenTesting, Network Forensics, OSINT)
   * Intel Corperation: (Summer Intern)
   > Worked on graduate level forecasting project for demand data across Intel's processer lines
   * NASA: (Student researcher) --> Researched Ionic Liquid Sorbents 
