@@ -67,7 +67,6 @@
          -->
 
 </table>
-
 <table>
 	<tr>
 		<td colspan = "2"><a href = "https://github.com/legendary-cynosure"><img alt="Legendary-Cynosure OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Legendary-Cynosure&bg_color=RRGGBBAA&title_color=00e7f0&color=00e7f0&line=00e7f0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
