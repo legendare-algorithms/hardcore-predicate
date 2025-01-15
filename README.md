@@ -79,21 +79,21 @@
 		<td><a href="https://github.com/legendary-cynosure"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legendary-cynosure&theme=nord_dark"></a></td>
 	</tr> -->
 	<td>
+		<div style="display: flex; flex-wrap: wrap;">
+		  <a href="https://github.com/legendary-cynosure" alt="Alexs GitHub Stats" style="margin: 5px;">
+		    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=legendary-cynosure&count_private=true&show_icons=true&theme=nord" />
+		  </a>
+		  <a href="https://github.com/legendary-cynosure" alt="Alex's GitHub Stats" style="margin: 5px;">
+		    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendary-cynosure&layout=donut&langs_count=15&theme=nord" />
+		  </a>
+			<br>
+			<a href="https://pytorch.org/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+			<a href="https://www.tensorflow.org" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+			<a href="https://www.python.org" target="_blank"><img align="center" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+		</div>
 	</td>
 </table>
 
-
-<div style="display: flex; flex-wrap: wrap;">
-  <a href="https://github.com/legendary-cynosure" alt="Alexs GitHub Stats" style="margin: 5px;">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=legendary-cynosure&count_private=true&show_icons=true&theme=nord" />
-  </a>
-  <a href="https://github.com/legendary-cynosure" alt="Alex's GitHub Stats" style="margin: 5px;">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendary-cynosure&layout=donut&langs_count=15&theme=nord" />
-  </a>
-	
-<a href="https://pytorch.org/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="center" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 	
 </div>
 </table>
