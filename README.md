@@ -1,3 +1,5 @@
+<div style="width:20%; margin: auto;">
+
 <table>
 	<td>
          <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
@@ -103,3 +105,4 @@
  	</td> -->
 <!-- </table> -->
 
+</div>
