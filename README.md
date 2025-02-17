@@ -50,8 +50,8 @@
 		<img align="center" width="200" height="210" src= "https://github.com/Legendary-Cynosure/Honors/blob/main/CAgov-logo.svg" alt = "ca.gov">
     </a>
   </p>
-<br>
-<h1>Developer Statistics</h1>
+
+<h1>Stats</h1>
 	<tr>
 		<td colspan = "2"><a href = "https://github.com/legendary-cynosure"><img alt="Legendary-Cynosure OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Legendary-Cynosure&bg_color=RRGGBBAA&title_color=00e7f0&color=00e7f0&line=00e7f0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
 			<!-- <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img src="https://visitcount.itsvg.in/api?id=legendary-cynosure&icon=0&color=0"></a> -->
