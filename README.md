@@ -14,6 +14,7 @@
   --- Contact: echo 'cGh5c2ljaXN0ODYuNUBnbWFpbC5jb20==' | base64 -d
   --- Linkedin: echo 'aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2VuZXJnZXRpYy1jeW5vc3VyZS8='| base64 -d
   --- Top Languages: C++, Rust, Python, Ocaml
+I mostly code in private repos, a lot of my public repos are just cool forks.
 ```
 
 <h1> Professional Experience </h1> 
