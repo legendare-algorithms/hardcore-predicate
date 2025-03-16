@@ -60,7 +60,7 @@
     </a>
   </p>
 
-<h1>Statistics</h1>
+<h1>Statistics & Contributions </h1>
 	<tr>
 		<td>
 		<div height="165em" style="display: flex; flex-wrap: wrap;">
