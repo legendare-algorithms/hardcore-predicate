@@ -37,7 +37,6 @@
 
 <h1> Professional Experience </h1> 
   <pre>
-  -------------------
   * DoD CyberSentinel (PenTesting, Network Forensics, OSINT)
   * Intel Corperation: (Summer Intern)
   > Worked on graduate level forecasting project for demand data across Intel's processer lines
@@ -46,7 +45,6 @@
   > Wrote python scripts and developed internal tools to automate data cleaning & verification tasks
   * IBM: (Americas Student Partner) --> Company Keynote speaker in 2021 & 2020
   > Worked with over 2.3  Million students and 116 schools, got $10k in funding
-  -------------------
   </pre>
 
  <br>
