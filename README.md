@@ -47,8 +47,6 @@
   > Worked with over 2.3  Million students and 116 schools, got $10k in funding
   </pre>
 
- <br>
-
   <p align="center">
     <a href = "https://eyes.nasa.gov/apps/exo/#/spacecraft/sc_jwst?browse_destination=Featured"> 
       <img align="center" width="120" height="110" src="https://github.com/Legendary-Cynosure/Honors/blob/main/nasa.png" alt="ad astra!">
