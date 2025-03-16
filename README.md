@@ -32,7 +32,7 @@
 <h1> Professional Experience </h1> 
   <pre>
   * DoD CyberSentinel (PenTesting, Network Forensics, OSINT)
-  * Intel Corperation: (Summer Intern)
+  * Intel Corperation: (Summer Data Intern)
   > Worked on graduate level forecasting project for demand data across Intel's processer lines
   * NASA: (Student researcher) --> Researched Ionic Liquid Sorbents 
   * CA.gov: (Insfrastructure Intern)
