@@ -6,6 +6,7 @@
          <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/a.gif" alt="gif of a"> </a>
          <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br>
 
+
   <h1>Contact Information </h1>
 
 ```bash
@@ -71,23 +72,23 @@
 
 <h1>Statistics</h1>
 	<tr>
-		<td colspan = "2"><a href = "https://github.com/legendary-cynosure"><img alt="Legendary-Cynosure OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Legendary-Cynosure&bg_color=RRGGBBAA&title_color=00e7f0&color=00e7f0&line=00e7f0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
-			<!-- <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img src="https://visitcount.itsvg.in/api?id=legendary-cynosure&icon=0&color=0"></a> -->
-		</td>
-	</tr>
-	<tr>
 		<td>
 		<div style="display: flex; flex-wrap: wrap;">
-		  <a href="https://github.com/legendary-cynosure" alt="Alexs GitHub Stats" style="margin: 5px;">
-		    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=legendary-cynosure&count_private=true&show_icons=true&theme=nord" />
-		  </a>
-		  <a href="https://github.com/legendary-cynosure" alt="Alex's GitHub Stats" style="margin: 5px;">
-		    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendary-cynosure&layout=donut&langs_count=15&theme=nord" />
+		  <p align="left">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Legendary-Cynosure&show_icons=true&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true&bg_color=00000000&stroke=81D8F7&text_color=81D8F7"/>
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Legendary-Cynosure&theme=react&background=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true&stroke=81D8F7&text_color=81D8F7" with=45%/>
+</p>
 		 			 </a>
 				<br>
 			</div>
 		</td>
 	</tr>
+	<tr>
+		<td colspan = "2"><a href = "https://github.com/legendary-cynosure"><img alt="Legendary-Cynosure OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Legendary-Cynosure&bg_color=RRGGBBAA&title_color=00e7f0&color=00e7f0&line=00e7f0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+			<!-- <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img src="https://visitcount.itsvg.in/api?id=legendary-cynosure&icon=0&color=0"></a> -->
+		</td>
+	</tr>
+
 </table>
 
 	
