@@ -73,7 +73,7 @@
 <h1>Statistics</h1>
 	<tr>
 		<td>
-		<div style="display: flex; flex-wrap: wrap;">
+		<div height="165em" style="display: flex; flex-wrap: wrap;">
 		  <p align="left">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Legendary-Cynosure&show_icons=true&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true&bg_color=00000000&stroke=81D8F7&text_color=81D8F7"/>
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Legendary-Cynosure&theme=react&background=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true&stroke=81D8F7&text_color=81D8F7" with=45%/>
