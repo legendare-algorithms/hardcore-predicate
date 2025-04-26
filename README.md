@@ -9,10 +9,6 @@
   Hi! I'm Alex and I like coding for fun, you'll find mostly a collection of cool forks but I'm also trying to learn and build more projects :)
 
 <h1> Professional Experience </h1> 
-
-https://orcid.org/0009-0007-3880-9357
-
-
   <pre>
   * DoD CyberSentinel (PenTesting, Network Forensics, OSINT)
   * Intel Corporation: (Summer Data Intern)
