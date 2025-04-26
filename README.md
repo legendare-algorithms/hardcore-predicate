@@ -7,7 +7,7 @@
          <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br>
 
   <p> Hi! I'm Alex and I like coding for fun, you'll find mostly a collection of cool forks but I'm also trying to learn and build more projects :) </p>
-  
+  <p> If you want to get in touch my email's in my bio! </p>
 
 <h1> Professional Experience </h1> 
   <pre>
