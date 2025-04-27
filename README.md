@@ -7,8 +7,8 @@
          <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br>
 <h1> About Me </h1>
 <pre>
-Hi! I'm Alex, I'm a junior at UC Berkeley and I like coding for fun
-you'll find mostly a collection of cool forks but I'm also trying to learn 
+Hi! I'm Alex, I'm a junior at UC Berkeley and I like coding for fun.
+You'll find mostly a collection of cool forks but I'm also trying to learn 
 and build more cool projects on here :) 
 =============================================================================
 	
