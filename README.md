@@ -6,15 +6,13 @@
          <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/a.gif" alt="gif of a"> </a>
          <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br>
 <h1> About Me </h1>
-<pre>
 Hi! I'm Alex, I'm a junior at UC Berkeley and I like coding for fun.
-You'll find mostly a collection of cool forks but I'm also trying to learn 
-and build more cool projects on here :) 
-=============================================================================
-	
-Email: legendare@berkeley.edu
-Research: Algorithmic Game Theory, Trading Models, Philosophy of Mind
-ORCID: https://orcid.org/0009-0007-3880-9357
+<br>You'll find mostly a collection of cool forks but I'm also trying to learn 
+<br>and build more cool projects on here :) 
+<br>	
+<br>Email: legendare@berkeley.edu
+<br>Research: Algorithmic Game Theory, Trading Models, Philosophy of Mind
+<br>ORCID: https://orcid.org/0009-0007-3880-9357
 </pre>
 		
 <h1> Professional Experience </h1> 
