@@ -11,7 +11,7 @@ Hi! I'm Alex, I'm a junior at UC Berkeley and I like coding for fun.
 <br>and build more cool projects on here :) 
 <br>	
 <br>Email: legendare@berkeley.edu
-<br>Research: Algorithmic Game Theory, Trading Models, Philosophy of Mind
+<br>Research: Algorithmic Game Theory, Trading Models, Philosophy of Mind, AI
 <br>ORCID: https://orcid.org/0009-0007-3880-9357
 </pre>
 		
