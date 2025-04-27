@@ -14,6 +14,7 @@ and build more cool projects on here :)
 	
 Email: legendare@berkeley.edu
 Research: Algorithmic Game Theory, Trading Models, Philosophy of Mind
+ORCID: https://orcid.org/0009-0007-3880-9357
 </pre>
 		
 <h1> Professional Experience </h1> 
