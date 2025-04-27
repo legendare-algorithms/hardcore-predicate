@@ -7,8 +7,7 @@
          <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br> 
 <h1> About Me </h1>
 Hi! I'm Alex, I'm an incoming junior at UC Berkeley and I like coding for fun.
-<br>You'll find mostly a collection of cool forks but I'm always learning 
-<br>and here to build more cool projects :) 
+<br>I'm always learning and here to build more cool projects :) 
 <br>	
 <br>Email: legendare at berkeley dot edu
 <br>Instagram: genetic.algorithms
