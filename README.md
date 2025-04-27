@@ -12,6 +12,7 @@ you'll find mostly a collection of cool forks but I'm also trying to learn
 and build more cool projects on here :) 
 	
 Email: legendare@berkeley.edu
+Research: Algorithmic Game Theory, Trading Models, Philosophy of Mind
 </pre>
 		
 <h1> Professional Experience </h1> 
