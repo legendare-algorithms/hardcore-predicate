@@ -10,7 +10,8 @@
 Hi! I'm Alex, I'm a junior at Berkeley and I like coding for fun
 you'll find mostly a collection of cool forks but I'm also trying to learn 
 and build more cool projects on here :) 
-Reach Me: legendare@berkeley.edu
+	
+Email: legendare@berkeley.edu
 </pre>
 		
 <h1> Professional Experience </h1> 
