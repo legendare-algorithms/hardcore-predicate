@@ -22,8 +22,7 @@ you'll find mostly a collection of cool forks but I'm also trying to learn and b
   * IBM: (Americas Student Partner) --> Company Keynote speaker in 2021 & 2020
   ---> Worked with over 2.3  Million students and 116 schools, recieved $10k in funding
   </pre>
-
-<!---
+  
   <p align="center">
     <a href = "https://eyes.nasa.gov/apps/exo/#/spacecraft/sc_jwst?browse_destination=Featured"> 
       <img align="center" width="120" height="110" src="https://github.com/Legendary-Cynosure/Honors/blob/main/nasa.png" alt="ad astra!">
@@ -41,7 +40,7 @@ you'll find mostly a collection of cool forks but I'm also trying to learn and b
 	<a href = "https://ca.gov/"> 
 		<img align="center" width="200" height="210" src= "https://github.com/Legendary-Cynosure/Honors/blob/main/CAgov-logo.svg" alt = "ca.gov">
     </a>
-  </p> -->
+  </p> 
 <!----
 <h1>Statistics & Contributions </h1>
 	<tr>
