@@ -11,7 +11,7 @@ Hi! I'm Alex, I'm an incoming junior at UC Berkeley and I like coding for fun.
 <br>and here to build more cool projects :) 
 <br>	
 <br>Email: legendare@berkeley.edu
-<br>Research: Algorithmic Game Theory, Trading Models, Philosophy of Mind, LSTM Gradients
+<br>Research: Algorithmic Game Theory, Trading Models, Philosophy of Mind, Phenomenology of Perception, LSTM Gradients
 <br>ORCID: https://orcid.org/0009-0007-3880-9357
 </pre>
 		
