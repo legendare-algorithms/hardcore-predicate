@@ -11,10 +11,10 @@ Hi! I'm Alex, I'm an incoming junior at UC Berkeley and I like coding for fun.
 <br>and here to build more cool projects :) 
 <br>	
 <br>Email: legendare at berkeley dot edu
+<br>Instagram: genetic.algorithms
 <br>Research: Algorithmic Game Theory, Trading Models, Philosophy of Mind, 
 <br>Phenomenology of Perception, LSTM Gradients, Skeleton Key
 <br>ORCID: https://orcid.org/0009-0007-3880-9357
-<br>Instagram: genetic.algorithms
 </pre>
 		
 <h1> Professional Experience </h1> 
