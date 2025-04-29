@@ -15,6 +15,19 @@ Hi! I'm Alex, I'm an incoming junior at UC Berkeley and I like coding for fun.
 <br>Phenomenology of Perception, LSTM Gradients, Skeleton Key
 <br>ORCID: https://orcid.org/0009-0007-3880-9357
 </pre>
+
+### Technologies
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=slateblue)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift&logoColor=orange)
+![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go&logoColor=blue)
+![Next JS](https://img.shields.io/badge/Next-05122A?style=flat&logo=next.js&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell-05122A?style=flat&logo=shell&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-05122A?style=flat&logo=Vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase&logoColor=yelloworange)
+![Supabase](https://img.shields.io/badge/Supabase-05122A?style=flat&logo=Supabase&logoColor=mintgreen)
 		
 <h1> Professional Experience </h1> 
   <pre>
@@ -47,18 +60,6 @@ Hi! I'm Alex, I'm an incoming junior at UC Berkeley and I like coding for fun.
     </a>
   </p> 
 
-### Technologies
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=slateblue)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Swift](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift&logoColor=orange)
-![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go&logoColor=blue)
-![Next JS](https://img.shields.io/badge/Next-05122A?style=flat&logo=next.js&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell-05122A?style=flat&logo=shell&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-05122A?style=flat&logo=Vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase&logoColor=yelloworange)
-![Supabase](https://img.shields.io/badge/Supabase-05122A?style=flat&logo=Supabase&logoColor=mintgreen)
 <!----
 <h1>Statistics & Contributions </h1>
 	<tr>
