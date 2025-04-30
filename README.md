@@ -6,7 +6,7 @@
          <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/a.gif" alt="gif of a"> </a>
          <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br> 
 <h1> About Me </h1>	
-<br>Email: legendare (at) berkeley (dot) edu
+Email: legendare (at) berkeley (dot) edu
 <br>Instagram: genetic.algorithms
 <br>Research: Algorithmic Game Theory, Trading Models, Philosophy of Mind, 
 <br>Phenomenology of Perception, LSTM Gradients, Skeleton Key
