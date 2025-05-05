@@ -2,9 +2,9 @@
 
  <table>
 	<td>
-         <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
+<!-- 	 <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
          <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/a.gif" alt="gif of a"> </a>
-         <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br> 
+         <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br>   -->
 <h1> Contact </h1>	
 Email: legendare (at) berkeley (dot) edu
 <br>Instagram: genetic.algorithms
@@ -37,7 +37,11 @@ Email: legendare (at) berkeley (dot) edu
   * IBM: (Americas Student Partner) --> Company Keynote speaker in 2021 & 2020
   ---> Worked with over 2.3  Million students and 116 schools, recieved $10k in funding
   </pre>
-  
+
+ <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
+ <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/a.gif" alt="gif of a"> </a>
+ <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br> 
+	 
   <p align="center">
     <a href = "https://eyes.nasa.gov/apps/exo/#/spacecraft/sc_jwst?browse_destination=Featured"> 
       <img align="center" width="120" height="110" src="https://github.com/Legendary-Cynosure/Honors/blob/main/nasa.png" alt="ad astra!">
