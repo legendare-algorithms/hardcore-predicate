@@ -7,10 +7,8 @@
          <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br>  
 <h1> Contact </h1>	
 Email: legendare (at) berkeley (dot) edu
-<br>Instagram: genetic.algorithms
 <br>Research: Algorithmic Game Theory, Trading Models, Philosophy of Mind, 
 <br>Phenomenology of Perception, LSTM Gradients, Skeleton Key
-<br>ORCID: https://orcid.org/0009-0007-3880-9357
 </pre>
 
 ### Technologies
