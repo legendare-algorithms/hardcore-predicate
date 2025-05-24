@@ -7,6 +7,7 @@
          <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br>  
 <h1> About </h1>
 B.S. Data Science + B.A. Economics + B.A. Philosophy @ University of California, Berkeley
+<br> Citizenship: United States of America
 <br> Incoming SWE Intern @ Google
 <br> Prev. Government Intern @ CA Gov
 <br> Prev. Data Intern @ Intel
