@@ -1,6 +1,6 @@
 <div style="width:20%; margin: auto;">
 
-<!--- <table>
+<table>
 	<td>
 	 <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
          <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/a.gif" alt="gif of a"> </a>
@@ -22,7 +22,7 @@ Email: legendare (at) berkeley (dot) edu
 ![Shell Script](https://img.shields.io/badge/shell-05122A?style=flat&logo=shell&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-05122A?style=flat&logo=Vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase&logoColor=yelloworange)
-![Supabase](https://img.shields.io/badge/Supabase-05122A?style=flat&logo=Supabase&logoColor=mintgreen) -->
+![Supabase](https://img.shields.io/badge/Supabase-05122A?style=flat&logo=Supabase&logoColor=mintgreen) 
 		
 <h1> Professional Experience </h1> 
   <pre>
