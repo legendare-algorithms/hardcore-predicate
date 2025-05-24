@@ -11,7 +11,7 @@ B.S. Data Science + B.A. Economics + B.A. Philosophy @ University of California,
 <br> Prev. Government Intern @ CA Gov
 <br> Prev. Data Intern @ Intel
 <br> Prev. Student Researcher @ NASA
-<br> Prev. Corperate Regional Student partner @ IBM Z
+<br> Prev. Corperate Regional Student Partner @ IBM Z
 <br>---------------------------------------------------
 <br> Email: legendare (at) berkeley (dot) edu
 <br>---------------------------------------------------
