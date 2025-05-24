@@ -5,25 +5,19 @@
 	 <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/bongo-cat-cute-png.gif" alt="gif of bongo cat"></a>
          <a href="https://www.youtube.com/watch?v=dmA6_0ZwWb4&ab_channel=BongoCat"> <img align="right" width="300" height="300" src="https://github.com/Legendary-Cynosure/Honors/blob/main/a.gif" alt="gif of a"> </a>
          <a href="https://www.youtube.com/watch?v=zlg7HkTp25A&t=16s&ab_channel=%E2%80%94ExtraLibur%E2%80%94"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a> <br>  
-<h1> Contact </h1>	
-Email: legendare (at) berkeley (dot) edu
-<br>Research: Algorithmic Game Theory, Trading Models, Philosophy of Mind, 
-<br>Phenomenology of Perception, LSTM Gradients, Skeleton Key
+<h1> About </h1>
+B.S. Data Science + B.A. Economics + B.A. Philosophy @ University of California, Berkeley
+<br> Incoming SWE Intern @ Google
+<br> Prev. Government Intern @ CA Gov
+<br> Prev. Data Intern @ Intel
+<br> Prev. Student Researcher @ NASA
+<br> Prev. Corperate Regional Student partner @ IBM Z
+<br>---------------------------------------------------
+<br> Email: legendare (at) berkeley (dot) edu
+<br>---------------------------------------------------
+<br>Interests: Algorithmic Game Theory, Cryptogarphy, Trading Models, Philosophy of Mind, Phenomenology of Perception 
 </pre>
-
-### Technologies
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=slateblue)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Swift](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift&logoColor=orange)
-![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go&logoColor=blue)
-![Next JS](https://img.shields.io/badge/Next-05122A?style=flat&logo=next.js&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell-05122A?style=flat&logo=shell&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-05122A?style=flat&logo=Vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase&logoColor=yelloworange)
-![Supabase](https://img.shields.io/badge/Supabase-05122A?style=flat&logo=Supabase&logoColor=mintgreen) 
-		
+	
 <h1> Professional Experience </h1> 
   <pre>
   * CA.gov: (Infrastructure Intern)
@@ -35,6 +29,19 @@ Email: legendare (at) berkeley (dot) edu
   * IBM: (Americas Student Partner) --> Company Keynote speaker in 2021 & 2020
   ---> Worked with over 2.3  Million students and 116 schools, recieved $10k in funding
   </pre>
+
+  ### Technologies
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=slateblue)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift&logoColor=orange)
+![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go&logoColor=blue)
+![Next JS](https://img.shields.io/badge/Next-05122A?style=flat&logo=next.js&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell-05122A?style=flat&logo=shell&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-05122A?style=flat&logo=Vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase&logoColor=yelloworange)
+![Supabase](https://img.shields.io/badge/Supabase-05122A?style=flat&logo=Supabase&logoColor=mintgreen) 
 	 
   <p align="center">
     <a href = "https://eyes.nasa.gov/apps/exo/#/spacecraft/sc_jwst?browse_destination=Featured"> 
